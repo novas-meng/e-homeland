@@ -1,5 +1,3 @@
-咱们那个用户名是不是不可以重复啊
+变量名命名规范 ：
 
-在这里写下：    
-1.`接下来要做的`    
-2.`服务器端的要求`    
+http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/naming/
